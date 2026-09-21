@@ -6,7 +6,9 @@ built from the DCP POPS dataset, DOB's Monthly Enforcement Action Bulletins, and
 > **Enforcement records come from DOB's Monthly Enforcement Action Bulletins, which highlight selected enforcement activity.
 > No enforcement record does not necessarily mean that a POPS is compliant.** See [METHODOLOGY.md](METHODOLOGY.md).
 
-Status: **Phase 1 (pipeline) done · Phase 2 (analysis) preliminary · Phase 3 (interface) not started.**
+**Live site: https://nyc-pops-accountability-tracker.vercel.app** (static site in `site/`, served by Vercel; every push to `main` redeploys, and the weekly data job pushes fresh `site/data/`).
+
+Status: **Phase 1 (pipeline) done · Phase 2 (analysis) preliminary · Phase 3 (interface) first version live: search, map, per-POPS pages, audit follow-up, methodology, downloads.**
 
 ## What's here
 | Path | What |
@@ -49,4 +51,4 @@ It never assumes a publication date. Running twice with no new inputs changes no
 * `owner` is the party the penalty was issued to (may be a contractor); `bulletin_month/year` is the publication month, not the date of the violation.
 
 ## Not done yet
-Phase 3 (public site), DOB inspections / complaints / 311 loaders (schema is ready), and a human pass over the 92 open review items. Nothing here should be published as final until that pass is done.
+Editorial story/design polish for the site, DOB inspections / complaints / 311 loaders (schema is ready), and a human pass over the 92 open review items. Nothing here should be published as final until that pass is done.

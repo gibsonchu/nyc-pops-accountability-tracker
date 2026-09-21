@@ -65,4 +65,6 @@ def latest_raw_csv():
     rows = _read_manifest()
     if not rows:
         raise FileNotFoundError("No raw POPS retrieval yet; run `python -m pops_tracker fetch-pops`.")
-    return config.RAW_POPS / rows[-1]["csv_file"], rows[-1]
+    last = rows[-1]
+    first_seen = next(r for r in rows if r["csv_file"] == last["csv_file"])   # when THIS content was first retrieved
+    return config.RAW_POPS / last["csv_file"], dict(last, retrieved_at_utc=first_seen["retrieved_at_utc"])

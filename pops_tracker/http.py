@@ -24,9 +24,17 @@ def session() -> requests.Session:
     return _session
 
 
+class SourceBlocked(RuntimeError):
+    """The source refused us (403/429). Carries enough detail to tell an IP-reputation block from a real removal."""
+
+
 def get(url: str, **kw) -> requests.Response:
     time.sleep(config.REQUEST_DELAY_SECONDS)
     r = session().get(url, timeout=config.HTTP_TIMEOUT, **kw)
+    if r.status_code in (403, 429):
+        snippet = " ".join(r.text.split())[:160]
+        raise SourceBlocked(f"HTTP {r.status_code} from {url} (server={r.headers.get('Server', '?')}, "
+                            f"content-type={r.headers.get('Content-Type', '?')}): {snippet}")
     r.raise_for_status()
     return r
 

@@ -34,7 +34,9 @@ jobs:
       # fetch POPS -> scrape index -> diff vs registry -> download new/replaced PDFs -> extract text -> parse actions
       # -> geocode + match against POPS master -> classify -> apply saved review decisions -> QC -> regenerate CSV/JSON/SQLite + site/data (Vercel redeploys on the push)
       - name: Update dataset
+        id: update
         run: python -m pops_tracker update
+        continue-on-error: true      # a blocked DOB fetch must not stop the rest being rebuilt and committed
 
       - name: Structural checks (fails the job if DOB's page/PDF layout changed)
         id: check
@@ -59,8 +61,9 @@ jobs:
           name: manual_review
           path: data/review/manual_review.csv
 
-      - name: Fail the run if structure checks failed
-        if: steps.check.outcome == 'failure'
+      - name: Fail the run if anything needs a human
+        if: steps.check.outcome == 'failure' || steps.update.outcome == 'failure'
         run: |
-          echo "DOB page/PDF structure problem detected; new data was committed but needs a human look."
+          echo "The update or the structural checks failed (see the earlier steps: DOB fetch blocked, or page/PDF layout changed)."
+          echo "Anything that could be rebuilt was still committed."
           exit 1

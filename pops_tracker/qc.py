@@ -200,6 +200,9 @@ def build_review(df, master, reg, diags, audit=None, index_link_count=None) -> p
     if index_link_count is not None:
         issues += index_structure_issues(index_link_count, reg)
     rv = pd.DataFrame(issues, columns=[c for c in REVIEW_COLUMNS if c != "status"] + [])
+    if config.MANUAL_REVIEW.exists():        # keep the ORIGINAL detection time so weekly diffs only show real changes
+        old = pd.read_csv(config.MANUAL_REVIEW, dtype=str, keep_default_na=False).set_index("review_id")["detected_at"].to_dict()
+        rv["detected_at"] = [old.get(r, d) for r, d in zip(rv["review_id"], rv["detected_at"])]
     from .pipeline import load_decisions
     decided = load_decisions()
     rv["status"] = ["resolved" if e and e in decided else "open" for e in rv["enforcement_id"]]

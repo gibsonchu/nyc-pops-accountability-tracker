@@ -149,8 +149,10 @@ def update_registry(reg: pd.DataFrame, actions_df: pd.DataFrame, diags: dict) ->
     now = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
     for bid, d in diags.items():
         sub = actions_df[actions_df.bulletin_id == bid] if len(actions_df) else actions_df
+        was_parsed = reg.at[bid, "parsed"] == "True" and bool(reg.at[bid, "parsed_at"])
         reg.at[bid, "parsed"] = "False" if d.get("needs_ocr") else "True"
-        reg.at[bid, "parsed_at"] = now
+        if not was_parsed:   # first-parse time; keeps weekly diffs quiet
+            reg.at[bid, "parsed_at"] = now
         reg.at[bid, "extraction_method"] = d.get("extraction_method", "needs_ocr")
         reg.at[bid, "page_count"] = str(d.get("n_pages", ""))
         reg.at[bid, "text_chars"] = str(d.get("n_chars", ""))

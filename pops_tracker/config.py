@@ -20,7 +20,7 @@ ENFORCEMENT_ALL = PROCESSED / "enforcement_actions_all.csv"
 ENFORCEMENT_POPS = PROCESSED / "pops_enforcement.csv"
 MANUAL_REVIEW = REVIEW / "manual_review.csv"
 
-USER_AGENT = "nyc-pops-accountability-tracker/0.1 (public-interest research; https://github.com/gibsonchu/nyc-pops-accountability-tracker)"
+USER_AGENT = "nyc-pops-accountability-tracker/0.1 (public-interest research)"  # nyc.gov's firewall 403s UAs containing a URL/repo name; keep it plain
 HTTP_TIMEOUT = 60
 REQUEST_DELAY_SECONDS = 0.5  # be polite to nyc.gov
 

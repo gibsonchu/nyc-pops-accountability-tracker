@@ -14,7 +14,7 @@ import pandas as pd
 
 from . import (accountability, bulletins as B, comptroller, config, extract as X, history, pipeline as PL,
                pops_master, pops_source, qc)
-from .http import get
+from .http import SourceBlocked, get
 
 
 def cmd_fetch_pops(_):
@@ -55,11 +55,19 @@ def cmd_build(args, n_links=None):
 
 
 def cmd_update(args):
+    """Never let a blocked DOB fetch hide everything else: rebuild from what is on disk, then exit non-zero."""
     cmd_fetch_pops(args)
-    _, n_links, new = cmd_discover(args)
-    changed = B.download_missing(check_updates=True)
-    print(f"downloaded/refreshed PDFs: {changed or 'none'}")
+    n_links, blocked = None, None
+    try:
+        _, n_links, new = cmd_discover(args)
+        changed = B.download_missing(check_updates=True)
+        print(f"downloaded/refreshed PDFs: {changed or 'none'}")
+    except SourceBlocked as e:
+        blocked = str(e)
+        print(f"::error title=DOB source blocked::{blocked}")
+        print("Continuing with the bulletins already on disk; DOB data was NOT refreshed this run.")
     cmd_build(args, n_links)
+    return 3 if blocked else 0
 
 
 def cmd_status(_):

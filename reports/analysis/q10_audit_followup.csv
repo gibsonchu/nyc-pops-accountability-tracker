@@ -1,0 +1,5 @@
+audit_group,pops,tierA,tierAB,any_linked,tierA_pct,tierAB_pct,any_linked_pct
+construction,41,3,4,6,7.3,9.8,14.6
+no,181,30,30,41,16.6,16.6,22.7
+not_in_audit,60,4,4,10,6.7,6.7,16.7
+yes,110,4,5,10,3.6,4.5,9.1

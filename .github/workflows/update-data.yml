@@ -1,0 +1,66 @@
+name: Weekly data update
+
+# DOB does not publish on a fixed day, so we never predict dates: every week we re-read the index page, diff it against
+# data/registry/bulletin_registry.csv and process whatever is new.
+on:
+  schedule:
+    - cron: "17 9 * * 1"        # Mondays 09:17 UTC (off the top of the hour on purpose)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Unit tests (fail fast if a parser change broke a known behaviour)
+        run: python -m pytest -q
+
+      # fetch POPS -> scrape index -> diff vs registry -> download new/replaced PDFs -> extract text -> parse actions
+      # -> geocode + match against POPS master -> classify -> apply saved review decisions -> QC -> regenerate CSV/JSON/SQLite + site/data (Vercel redeploys on the push)
+      - name: Update dataset
+        run: python -m pops_tracker update
+
+      - name: Structural checks (fails the job if DOB's page/PDF layout changed)
+        id: check
+        run: python -m pops_tracker check
+        continue-on-error: true
+
+      - name: Commit changed data
+        run: |
+          git config user.name  "pops-tracker-bot"
+          git config user.email "pops-tracker-bot@users.noreply.github.com"
+          git add data reports site
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "data: weekly update $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Upload review queue
+        uses: actions/upload-artifact@v4
+        with:
+          name: manual_review
+          path: data/review/manual_review.csv
+
+      - name: Fail the run if structure checks failed
+        if: steps.check.outcome == 'failure'
+        run: |
+          echo "DOB page/PDF structure problem detected; new data was committed but needs a human look."
+          exit 1

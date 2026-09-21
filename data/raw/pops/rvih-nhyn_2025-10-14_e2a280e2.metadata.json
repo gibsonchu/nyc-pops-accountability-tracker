@@ -1,0 +1,3305 @@
+{
+ "approvals": [
+  {
+   "reviewedAt": 1562690631,
+   "reviewedAutomatically": true,
+   "state": "approved",
+   "submissionDetails": {
+    "permissionType": "READ"
+   },
+   "submissionId": 1667015,
+   "submissionObject": "public_audience_request",
+   "submissionOutcome": "change_audience",
+   "submissionOutcomeApplication": {
+    "failureCount": 0,
+    "status": "success"
+   },
+   "submittedAt": 1562690631,
+   "submitter": {
+    "displayName": "NYC OpenData",
+    "id": "5fuc-pqz2"
+   },
+   "targetAudience": "public",
+   "workflowId": 2285
+  }
+ ],
+ "assetType": "dataset",
+ "attribution": "Department of City Planning (DCP)",
+ "attributionLink": "https://www.nyc.gov/site/planning/data-maps/open-data.page",
+ "averageRating": 0,
+ "category": "City Government",
+ "clientContext": {
+  "clientContextVariables": [],
+  "inheritedVariables": {}
+ },
+ "columns": [
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "X030001",
+    "non_null": "392",
+    "null": "0",
+    "smallest": "K010001",
+    "top": [
+     {
+      "count": "1",
+      "item": "K010002"
+     },
+     {
+      "count": "1",
+      "item": "K010003"
+     },
+     {
+      "count": "1",
+      "item": "K020001"
+     },
+     {
+      "count": "1",
+      "item": "K020002"
+     },
+     {
+      "count": "1",
+      "item": "K020003"
+     },
+     {
+      "count": "1",
+      "item": "K020006"
+     },
+     {
+      "count": "1",
+      "item": "K020007"
+     },
+     {
+      "count": "1",
+      "item": "K020008"
+     },
+     {
+      "count": "1",
+      "item": "K020009"
+     },
+     {
+      "count": "1",
+      "item": "K020010"
+     },
+     {
+      "count": "1",
+      "item": "K020011"
+     },
+     {
+      "count": "1",
+      "item": "K020012"
+     },
+     {
+      "count": "1",
+      "item": "K040001"
+     },
+     {
+      "count": "1",
+      "item": "K130001"
+     },
+     {
+      "count": "1",
+      "item": "K150001"
+     },
+     {
+      "count": "1",
+      "item": "M010002"
+     },
+     {
+      "count": "1",
+      "item": "M010003"
+     },
+     {
+      "count": "1",
+      "item": "M010004"
+     },
+     {
+      "count": "1",
+      "item": "M010005"
+     },
+     {
+      "count": "1",
+      "item": "K010001"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "POPS Number is the record number the Department of City Planning uses to identify a building address within the POPS Database.",
+   "fieldName": "pops_number",
+   "format": {},
+   "id": 444389450,
+   "name": "POPS_Number",
+   "position": 1,
+   "renderTypeName": "text",
+   "tableColumnId": 82853505
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "Staten Island",
+    "non_null": "392",
+    "null": "0",
+    "smallest": "Bronx",
+    "top": [
+     {
+      "count": "366",
+      "item": "Manhattan"
+     },
+     {
+      "count": "16",
+      "item": "Brooklyn"
+     },
+     {
+      "count": "5",
+      "item": "Queens"
+     },
+     {
+      "count": "3",
+      "item": "Bronx"
+     },
+     {
+      "count": "2",
+      "item": "Staten Island"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "The Borough in which the public space is located. The City has 5 geographically  defined boroughs.",
+   "fieldName": "borough_name",
+   "format": {},
+   "id": 444389451,
+   "name": "Borough",
+   "position": 2,
+   "renderTypeName": "text",
+   "tableColumnId": 82853531
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "5",
+    "non_null": "392",
+    "null": "0",
+    "smallest": "1",
+    "top": [
+     {
+      "count": "366",
+      "item": "1"
+     },
+     {
+      "count": "16",
+      "item": "3"
+     },
+     {
+      "count": "5",
+      "item": "4"
+     },
+     {
+      "count": "3",
+      "item": "2"
+     },
+     {
+      "count": "2",
+      "item": "5"
+     }
+    ]
+   },
+   "dataTypeName": "number",
+   "description": "Borough Code is a single digit that represents the borough in which the public  space is located. The City has 5 geographically defined boroughs.",
+   "fieldName": "borocode",
+   "format": {},
+   "id": 444389488,
+   "name": "Borocode",
+   "position": 3,
+   "renderTypeName": "number",
+   "tableColumnId": 92619552
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "15",
+    "non_null": "392",
+    "null": "0",
+    "smallest": "1",
+    "top": [
+     {
+      "count": "106",
+      "item": "5"
+     },
+     {
+      "count": "81",
+      "item": "6"
+     },
+     {
+      "count": "75",
+      "item": "8"
+     },
+     {
+      "count": "62",
+      "item": "1"
+     },
+     {
+      "count": "22",
+      "item": "2"
+     },
+     {
+      "count": "21",
+      "item": "7"
+     },
+     {
+      "count": "15",
+      "item": "4"
+     },
+     {
+      "count": "3",
+      "item": "11"
+     },
+     {
+      "count": "3",
+      "item": "3"
+     },
+     {
+      "count": "1",
+      "item": "13"
+     },
+     {
+      "count": "1",
+      "item": "14"
+     },
+     {
+      "count": "1",
+      "item": "9"
+     },
+     {
+      "count": "1",
+      "item": "15"
+     }
+    ]
+   },
+   "dataTypeName": "number",
+   "description": "The community district in which the public space is located. The City has  59 geographically defined community districts overseen by community boards.  The community boards play a role in the City's Uniform Land Use Review  Procedure (ULURP), as well as in the review of other City Planning Commission  and Board of Standards and Appeals actions.",
+   "fieldName": "community_district",
+   "format": {},
+   "id": 444389452,
+   "name": "Community Board",
+   "position": 4,
+   "renderTypeName": "number",
+   "tableColumnId": 82853523
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "99",
+    "non_null": "392",
+    "null": "0",
+    "smallest": "1",
+    "top": [
+     {
+      "count": "14",
+      "item": "200"
+     },
+     {
+      "count": "10",
+      "item": "1"
+     },
+     {
+      "count": "9",
+      "item": "300"
+     },
+     {
+      "count": "6",
+      "item": "40"
+     },
+     {
+      "count": "5",
+      "item": "401"
+     },
+     {
+      "count": "5",
+      "item": "400"
+     },
+     {
+      "count": "5",
+      "item": "55"
+     },
+     {
+      "count": "4",
+      "item": "330"
+     },
+     {
+      "count": "4",
+      "item": "111"
+     },
+     {
+      "count": "4",
+      "item": "301"
+     },
+     {
+      "count": "4",
+      "item": "45"
+     },
+     {
+      "count": "4",
+      "item": "10"
+     },
+     {
+      "count": "4",
+      "item": "201"
+     },
+     {
+      "count": "4",
+      "item": "60"
+     },
+     {
+      "count": "4",
+      "item": "115"
+     },
+     {
+      "count": "4",
+      "item": "2"
+     },
+     {
+      "count": "4",
+      "item": "130"
+     },
+     {
+      "count": "3",
+      "item": "303"
+     },
+     {
+      "count": "3",
+      "item": "155"
+     },
+     {
+      "count": "3",
+      "item": "345"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "The address number as displayed on the building's exterior or as recorded in  Department of Finance records.",
+   "fieldName": "address_number",
+   "format": {},
+   "id": 444389453,
+   "name": "Number",
+   "position": 5,
+   "renderTypeName": "text",
+   "tableColumnId": 82853508
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "YORK AVENUE",
+    "non_null": "392",
+    "null": "0",
+    "smallest": "39 AVENUE",
+    "top": [
+     {
+      "count": "19",
+      "item": "BROADWAY"
+     },
+     {
+      "count": "18",
+      "item": "SIXTH AVENUE"
+     },
+     {
+      "count": "17",
+      "item": "THIRD AVENUE"
+     },
+     {
+      "count": "15",
+      "item": "PARK AVENUE"
+     },
+     {
+      "count": "15",
+      "item": "FIFTH AVENUE"
+     },
+     {
+      "count": "10",
+      "item": "MADISON AVENUE"
+     },
+     {
+      "count": "7",
+      "item": "LEXINGTON AVENUE"
+     },
+     {
+      "count": "7",
+      "item": "WATER STREET"
+     },
+     {
+      "count": "7",
+      "item": "WEST 57 STREET"
+     },
+     {
+      "count": "7",
+      "item": "WALL STREET"
+     },
+     {
+      "count": "5",
+      "item": "BROAD STREET"
+     },
+     {
+      "count": "5",
+      "item": "SEVENTH AVENUE"
+     },
+     {
+      "count": "5",
+      "item": "YORK AVENUE"
+     },
+     {
+      "count": "5",
+      "item": "EAST 34 STREET"
+     },
+     {
+      "count": "5",
+      "item": "EAST 72 STREET"
+     },
+     {
+      "count": "5",
+      "item": "EAST 54 STREET"
+     },
+     {
+      "count": "4",
+      "item": "EAST 84 STREET"
+     },
+     {
+      "count": "4",
+      "item": "EAST 87 STREET"
+     },
+     {
+      "count": "4",
+      "item": "SECOND AVENUE"
+     },
+     {
+      "count": "4",
+      "item": "EAST 65 STREET"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "The street name as displayed on the building's exterior or as recorded in  Department of Finance records.",
+   "fieldName": "street_name",
+   "format": {},
+   "id": 444389454,
+   "name": "Street",
+   "position": 6,
+   "renderTypeName": "text",
+   "tableColumnId": 82853519
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "11691",
+    "non_null": "392",
+    "null": "0",
+    "smallest": "10001",
+    "top": [
+     {
+      "count": "47",
+      "item": "10022"
+     },
+     {
+      "count": "38",
+      "item": "10019"
+     },
+     {
+      "count": "37",
+      "item": "10016"
+     },
+     {
+      "count": "32",
+      "item": "10017"
+     },
+     {
+      "count": "22",
+      "item": "10128"
+     },
+     {
+      "count": "18",
+      "item": "10023"
+     },
+     {
+      "count": "16",
+      "item": "10036"
+     },
+     {
+      "count": "15",
+      "item": "10021"
+     },
+     {
+      "count": "14",
+      "item": "10028"
+     },
+     {
+      "count": "14",
+      "item": "10005"
+     },
+     {
+      "count": "14",
+      "item": "10038"
+     },
+     {
+      "count": "12",
+      "item": "10004"
+     },
+     {
+      "count": "12",
+      "item": "10065"
+     },
+     {
+      "count": "9",
+      "item": "10001"
+     },
+     {
+      "count": "8",
+      "item": "10075"
+     },
+     {
+      "count": "8",
+      "item": "10006"
+     },
+     {
+      "count": "7",
+      "item": "11201"
+     },
+     {
+      "count": "6",
+      "item": "10003"
+     },
+     {
+      "count": "6",
+      "item": "10007"
+     },
+     {
+      "count": "5",
+      "item": "10010"
+     }
+    ]
+   },
+   "dataTypeName": "number",
+   "description": "The zip code in which the public space is located.",
+   "fieldName": "zip_code",
+   "format": {
+    "noCommas": "true"
+   },
+   "id": 444389455,
+   "name": "Postcode",
+   "position": 7,
+   "renderTypeName": "number",
+   "tableColumnId": 82853507
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "9 WEST 57 STREET, New York, NY 10019",
+    "non_null": "392",
+    "null": "0",
+    "smallest": "1000 TENTH AVENUE, New York, NY 10019",
+    "top": [
+     {
+      "count": "1",
+      "item": "100 UNITED NATIONS PLAZA, New York, NY 10017"
+     },
+     {
+      "count": "1",
+      "item": "100 WALL STREET, New York, NY 10005"
+     },
+     {
+      "count": "1",
+      "item": "100 WILLIAM STREET, New York, NY 10038"
+     },
+     {
+      "count": "1",
+      "item": "101 BARCLAY STREET, New York, NY 10007"
+     },
+     {
+      "count": "1",
+      "item": "101 PARK AVENUE, New York, NY 10178"
+     },
+     {
+      "count": "1",
+      "item": "105 DUANE STREET, New York, NY 10007"
+     },
+     {
+      "count": "1",
+      "item": "1065 PARK AVENUE, New York, NY 10128"
+     },
+     {
+      "count": "1",
+      "item": "108 FIFTH AVENUE, New York, NY 10011"
+     },
+     {
+      "count": "1",
+      "item": "1095 SIXTH AVENUE, New York, NY 10036"
+     },
+     {
+      "count": "1",
+      "item": "10 EAST 29 STREET, New York, NY 10016"
+     },
+     {
+      "count": "1",
+      "item": "10 EAST 53 STREET, New York, NY 10022"
+     },
+     {
+      "count": "1",
+      "item": "10 LIBERTY STREET, New York, NY 10005"
+     },
+     {
+      "count": "1",
+      "item": "10 WEST 66 STREET, New York, NY 10023"
+     },
+     {
+      "count": "1",
+      "item": "110 EAST 59 STREET, New York, NY 10022"
+     },
+     {
+      "count": "1",
+      "item": "110 WALL STREET, New York, NY 10005"
+     },
+     {
+      "count": "1",
+      "item": "1114 SIXTH AVENUE, New York, NY 10036"
+     },
+     {
+      "count": "1",
+      "item": "111 EAST 85 STREET, New York, NY 10028"
+     },
+     {
+      "count": "1",
+      "item": "111 LIVINGSTON STREET, Brooklyn, NY 11201"
+     },
+     {
+      "count": "1",
+      "item": "111 MURRAY STREET, New York, NY 10007"
+     },
+     {
+      "count": "1",
+      "item": "1000 TENTH AVENUE, New York, NY 10019"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "Building Address with Zip Code is the street address as displayed on  the building's exterior or as recorded in Department of Finance records.",
+   "fieldName": "building_address_with_zip",
+   "format": {},
+   "id": 444389456,
+   "name": "Building_Address_With_Zip_Code",
+   "position": 8,
+   "renderTypeName": "text",
+   "tableColumnId": 82853509
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "15537",
+    "non_null": "390",
+    "null": "2",
+    "smallest": "2",
+    "top": [
+     {
+      "count": "4",
+      "item": "1292"
+     },
+     {
+      "count": "3",
+      "item": "889"
+     },
+     {
+      "count": "3",
+      "item": "1028"
+     },
+     {
+      "count": "3",
+      "item": "1491"
+     },
+     {
+      "count": "3",
+      "item": "890"
+     },
+     {
+      "count": "3",
+      "item": "9"
+     },
+     {
+      "count": "3",
+      "item": "1303"
+     },
+     {
+      "count": "3",
+      "item": "1113"
+     },
+     {
+      "count": "3",
+      "item": "1320"
+     },
+     {
+      "count": "3",
+      "item": "1338"
+     },
+     {
+      "count": "3",
+      "item": "1312"
+     },
+     {
+      "count": "3",
+      "item": "1284"
+     },
+     {
+      "count": "2",
+      "item": "20"
+     },
+     {
+      "count": "2",
+      "item": "31"
+     },
+     {
+      "count": "2",
+      "item": "892"
+     },
+     {
+      "count": "2",
+      "item": "5"
+     },
+     {
+      "count": "2",
+      "item": "17"
+     },
+     {
+      "count": "2",
+      "item": "944"
+     },
+     {
+      "count": "2",
+      "item": "855"
+     },
+     {
+      "count": "2",
+      "item": "548"
+     }
+    ]
+   },
+   "dataTypeName": "number",
+   "description": "Tax Block is the block number for the development's relevant zoning lots.  The block refers to a city block, within which are a number of lots. The source for  this information is the Department of Finance records and published information  such as the Sanborn Manhattan Land Book.",
+   "fieldName": "tax_block",
+   "format": {},
+   "id": 444389457,
+   "name": "Tax_Block",
+   "position": 9,
+   "renderTypeName": "number",
+   "tableColumnId": 82853512
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "7506",
+    "non_null": "390",
+    "null": "2",
+    "smallest": "1",
+    "top": [
+     {
+      "count": "91",
+      "item": "7501"
+     },
+     {
+      "count": "61",
+      "item": "1"
+     },
+     {
+      "count": "29",
+      "item": "7502"
+     },
+     {
+      "count": "16",
+      "item": "29"
+     },
+     {
+      "count": "14",
+      "item": "7503"
+     },
+     {
+      "count": "13",
+      "item": "21"
+     },
+     {
+      "count": "9",
+      "item": "23"
+     },
+     {
+      "count": "8",
+      "item": "33"
+     },
+     {
+      "count": "7",
+      "item": "4"
+     },
+     {
+      "count": "6",
+      "item": "22"
+     },
+     {
+      "count": "6",
+      "item": "10"
+     },
+     {
+      "count": "5",
+      "item": "19"
+     },
+     {
+      "count": "5",
+      "item": "8"
+     },
+     {
+      "count": "5",
+      "item": "38"
+     },
+     {
+      "count": "5",
+      "item": "9"
+     },
+     {
+      "count": "4",
+      "item": "5"
+     },
+     {
+      "count": "4",
+      "item": "11"
+     },
+     {
+      "count": "4",
+      "item": "3"
+     },
+     {
+      "count": "4",
+      "item": "25"
+     },
+     {
+      "count": "4",
+      "item": "35"
+     }
+    ]
+   },
+   "dataTypeName": "number",
+   "description": "Tax Lot is the lot number(s) for the development's relevant zoning lots. The block refers  to a city block, within which are a number of lots. With condominium buildings, each  condominium unity has its own lot number. The source for this information is the Department  of Finance records and published information such as the Sanborn Manhattan Land Book.",
+   "fieldName": "tax_lot",
+   "format": {
+    "noCommas": "true"
+   },
+   "id": 444389458,
+   "name": "Tax_Lot",
+   "position": 10,
+   "renderTypeName": "number",
+   "tableColumnId": 82853504
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "World Apparel Center",
+    "non_null": "265",
+    "null": "127",
+    "smallest": "100 Pearl Street",
+    "top": [
+     {
+      "count": "2",
+      "item": "Normandie Court"
+     },
+     {
+      "count": "2",
+      "item": "International Plaza"
+     },
+     {
+      "count": "1",
+      "item": "1211 Avenue of the Americas"
+     },
+     {
+      "count": "1",
+      "item": "1325 Avenue of the Americas"
+     },
+     {
+      "count": "1",
+      "item": "1370 Avenue of the Americas"
+     },
+     {
+      "count": "1",
+      "item": "1 Dag Hammarskjold Plaza"
+     },
+     {
+      "count": "1",
+      "item": "1 State Street Plaza"
+     },
+     {
+      "count": "1",
+      "item": "54 Noll Street / One Bushwick"
+     },
+     {
+      "count": "1",
+      "item": "2 New York Plaza"
+     },
+     {
+      "count": "1",
+      "item": "30 Lincoln Plaza"
+     },
+     {
+      "count": "1",
+      "item": "30 Park Place"
+     },
+     {
+      "count": "1",
+      "item": "432 Park Avenue"
+     },
+     {
+      "count": "1",
+      "item": "45 Broadway Atrium"
+     },
+     {
+      "count": "1",
+      "item": "4 New York Plaza"
+     },
+     {
+      "count": "1",
+      "item": "500 Park Tower"
+     },
+     {
+      "count": "1",
+      "item": "1 Exchange Plaza"
+     },
+     {
+      "count": "1",
+      "item": "Adams Tower"
+     },
+     {
+      "count": "1",
+      "item": "Alexandria Science Center"
+     },
+     {
+      "count": "1",
+      "item": "Alliance Capital"
+     },
+     {
+      "count": "1",
+      "item": "1251 Avenue of the Americas"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "The name of the building as displayed on the building's exterior or as generally presented  to the public. If there is no building name, the field is left blank.",
+   "fieldName": "building_name",
+   "format": {},
+   "id": 444389459,
+   "name": "Building_Name",
+   "position": 11,
+   "renderTypeName": "text",
+   "tableColumnId": 82853532
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "West side of Third Avenue between East 54th and 55th Streets",
+    "non_null": "361",
+    "null": "31",
+    "smallest": "Between East 19th Street and Sheepshead Bay Road.",
+    "top": [
+     {
+      "count": "2",
+      "item": "South side of West 57th Street between Sixth and Seventh Avenues"
+     },
+     {
+      "count": "1",
+      "item": "Northeast corner of Second Avenue and East 87th Street"
+     },
+     {
+      "count": "1",
+      "item": "Northwest corner of East 29th Street and Third Avenue"
+     },
+     {
+      "count": "1",
+      "item": "Northwest corner of East 49th Street and Second Avenue"
+     },
+     {
+      "count": "1",
+      "item": "East side of Park Avenue between East 48th and 49th Streets"
+     },
+     {
+      "count": "1",
+      "item": "Southwest corner of Third Avenue and East 95th Street. Additional lot: 1523/34-40."
+     },
+     {
+      "count": "1",
+      "item": "Southwest corner of Seventh Avenue and West 53rd Street"
+     },
+     {
+      "count": "1",
+      "item": "Full blcokfront on west side of Third Avenue between East 64th and 65th Streets"
+     },
+     {
+      "count": "1",
+      "item": "Full blockfront on west side of Whitehall Street between State and  Pearl Streets"
+     },
+     {
+      "count": "1",
+      "item": "Full blockfront on west side of Lexington Avenue between East 59th and 60th Streets"
+     },
+     {
+      "count": "1",
+      "item": "Northwest corner of East 50th Street and Lexington Avenue"
+     },
+     {
+      "count": "1",
+      "item": "Full blockfront on east side of Lexington Avenue between East 43rd and 44th Streets"
+     },
+     {
+      "count": "1",
+      "item": "South side of East 86th Street between York and First Avenues. Additional lot: 1565/17,29."
+     },
+     {
+      "count": "1",
+      "item": "West side of Broadway between West 67th and 68th Streets"
+     },
+     {
+      "count": "1",
+      "item": "Northeast corner of Second Avenue and East 43rd Street"
+     },
+     {
+      "count": "1",
+      "item": "Full blockfront on west side Sixth Avenue between  West 46th and 47th Streets"
+     },
+     {
+      "count": "1",
+      "item": "East side of Bowery between Delancey Street and Rivington Street"
+     },
+     {
+      "count": "1",
+      "item": "Full blockfront on west side of York Avenue between East 89th and 90th Streets"
+     },
+     {
+      "count": "1",
+      "item": "Northeast corner of Lexington Avenue and East 34th Street"
+     },
+     {
+      "count": "1",
+      "item": "Northwest corner of First Avenue and East 83rd Street"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "The location of the main entrance or entrances to the building, and describes the building  rather than the public space, location.",
+   "fieldName": "building_location",
+   "format": {},
+   "id": 444389460,
+   "name": "Building_Location",
+   "position": 12,
+   "renderTypeName": "text",
+   "tableColumnId": 82853533
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "2019",
+    "non_null": "354",
+    "null": "38",
+    "smallest": "0",
+    "top": [
+     {
+      "count": "24",
+      "item": "1974"
+     },
+     {
+      "count": "21",
+      "item": "1987"
+     },
+     {
+      "count": "21",
+      "item": "1971"
+     },
+     {
+      "count": "20",
+      "item": "1972"
+     },
+     {
+      "count": "19",
+      "item": "1983"
+     },
+     {
+      "count": "18",
+      "item": "1969"
+     },
+     {
+      "count": "17",
+      "item": "1985"
+     },
+     {
+      "count": "15",
+      "item": "1970"
+     },
+     {
+      "count": "15",
+      "item": "1968"
+     },
+     {
+      "count": "12",
+      "item": "1989"
+     },
+     {
+      "count": "11",
+      "item": "1982"
+     },
+     {
+      "count": "11",
+      "item": "1984"
+     },
+     {
+      "count": "10",
+      "item": "1967"
+     },
+     {
+      "count": "10",
+      "item": "1986"
+     },
+     {
+      "count": "10",
+      "item": "1973"
+     },
+     {
+      "count": "9",
+      "item": "1979"
+     },
+     {
+      "count": "9",
+      "item": "1975"
+     },
+     {
+      "count": "8",
+      "item": "1980"
+     },
+     {
+      "count": "8",
+      "item": "1990"
+     },
+     {
+      "count": "8",
+      "item": "1966"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "Year Completed is the year the building was completed, according to published information  and discussions with the owner.",
+   "fieldName": "year_completed",
+   "format": {},
+   "id": 444389461,
+   "name": "Year_Completed",
+   "position": 13,
+   "renderTypeName": "text",
+   "tableColumnId": 82853506
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "Under Construction",
+    "non_null": "370",
+    "null": "22",
+    "smallest": "Completed",
+    "top": [
+     {
+      "count": "363",
+      "item": "Completed"
+     },
+     {
+      "count": "7",
+      "item": "Under Construction"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "Building Construction is the construction status of the building, according to  published information and discussions with the owner.",
+   "fieldName": "building_constructed",
+   "format": {},
+   "id": 444389462,
+   "name": "Building_Constructed",
+   "position": 14,
+   "renderTypeName": "text",
+   "tableColumnId": 82853534
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "Variance Arcade",
+    "non_null": "390",
+    "null": "2",
+    "smallest": "Access Area; Exhibit Area; Pedestrian Circulation Space",
+    "top": [
+     {
+      "count": "90",
+      "item": "Plaza"
+     },
+     {
+      "count": "56",
+      "item": "Residential Plaza"
+     },
+     {
+      "count": "55",
+      "item": "Arcade; Plaza"
+     },
+     {
+      "count": "14",
+      "item": "Urban Plaza"
+     },
+     {
+      "count": "12",
+      "item": "Public Plaza"
+     },
+     {
+      "count": "12",
+      "item": "Public Access Area"
+     },
+     {
+      "count": "7",
+      "item": "Through Block Connection"
+     },
+     {
+      "count": "6",
+      "item": "Arcade"
+     },
+     {
+      "count": "5",
+      "item": "Arcade; Sidewalk Widening; Urban Plaza"
+     },
+     {
+      "count": "5",
+      "item": "Covered Pedestrian Space"
+     },
+     {
+      "count": "4",
+      "item": "Arcade; Urban Plaza"
+     },
+     {
+      "count": "4",
+      "item": "Publicly Accessible Open Space"
+     },
+     {
+      "count": "4",
+      "item": "Public Open Space"
+     },
+     {
+      "count": "3",
+      "item": "Plaza; Through Block Arcade"
+     },
+     {
+      "count": "3",
+      "item": "Arcade; Covered Pedestrian Space"
+     },
+     {
+      "count": "3",
+      "item": "Sidewalk Widening; Urban Plaza"
+     },
+     {
+      "count": "3",
+      "item": "Pedestrian Circulation Space; Urban Plaza"
+     },
+     {
+      "count": "2",
+      "item": "Through Block Galleria"
+     },
+     {
+      "count": "2",
+      "item": "Park; Plaza"
+     },
+     {
+      "count": "2",
+      "item": "Pedestrian Circulation Space"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "Public Space Type is the type of spaces required to be provided at the development.",
+   "fieldName": "public_space_type",
+   "format": {},
+   "id": 444389463,
+   "name": "Public_Space_Type",
+   "position": 15,
+   "renderTypeName": "text",
+   "tableColumnId": 82853535
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "Zeckendorf Worldwide",
+    "non_null": "207",
+    "null": "185",
+    "smallest": "200 East Realty Corporation",
+    "top": [
+     {
+      "count": "6",
+      "item": "Fisher Brothers"
+     },
+     {
+      "count": "5",
+      "item": "Rose Associates"
+     },
+     {
+      "count": "5",
+      "item": "Harry Macklowe"
+     },
+     {
+      "count": "3",
+      "item": "The Durst Organization"
+     },
+     {
+      "count": "2",
+      "item": "Samuel Minskoff & Sons"
+     },
+     {
+      "count": "2",
+      "item": "Solow Building Co."
+     },
+     {
+      "count": "2",
+      "item": "Samuel Rudin"
+     },
+     {
+      "count": "2",
+      "item": "Milstein Properties"
+     },
+     {
+      "count": "2",
+      "item": "Peter Sharp"
+     },
+     {
+      "count": "2",
+      "item": "Percy and Harold Uris"
+     },
+     {
+      "count": "2",
+      "item": "Ian Bruce Eichner"
+     },
+     {
+      "count": "2",
+      "item": "Harry B. Helmsley"
+     },
+     {
+      "count": "2",
+      "item": "Silverstein Properties"
+     },
+     {
+      "count": "2",
+      "item": "Sol G. Atlas and John P. McGrath"
+     },
+     {
+      "count": "2",
+      "item": "Harry Helmsley"
+     },
+     {
+      "count": "2",
+      "item": "Jack and Lewis Rudin"
+     },
+     {
+      "count": "2",
+      "item": "Rockrose Development Corp."
+     },
+     {
+      "count": "2",
+      "item": "Howard Ronson"
+     },
+     {
+      "count": "2",
+      "item": "Jack Resnick"
+     },
+     {
+      "count": "2",
+      "item": "William Zeckendorf, Jr."
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "Developer is the name of the legal entity or a person or persons participating in  the legal entity that has developed the building and its public space(s).\nThe sources for this field are varied, including legal records, published information,  and discussions with the current owner.\"",
+   "fieldName": "developer",
+   "format": {},
+   "id": 444389464,
+   "name": "Developer",
+   "position": 16,
+   "renderTypeName": "text",
+   "tableColumnId": 82853536
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "William Lescaze & Associates/Hausman & Rosenberg",
+    "non_null": "366",
+    "null": "26",
+    "smallest": "Abraham D. Levitt Associates/The Vilkas Group",
+    "top": [
+     {
+      "count": "56",
+      "item": "Emery Roth & Sons"
+     },
+     {
+      "count": "42",
+      "item": "Philip Birnbaum"
+     },
+     {
+      "count": "15",
+      "item": "Skidmore, Owings & Merrill"
+     },
+     {
+      "count": "8",
+      "item": "Kahn and Jacobs"
+     },
+     {
+      "count": "7",
+      "item": "Liebman Liebman Associates"
+     },
+     {
+      "count": "6",
+      "item": "Schuman Lichtenstein Claman Efron"
+     },
+     {
+      "count": "5",
+      "item": "Murphy/Jahn"
+     },
+     {
+      "count": "5",
+      "item": "Philip Birnbaum & Associates"
+     },
+     {
+      "count": "4",
+      "item": "Frank Williams & Associates"
+     },
+     {
+      "count": "4",
+      "item": "Shreve, Lamb & Harmon"
+     },
+     {
+      "count": "4",
+      "item": "Schuman, Lichtenstein, Claman"
+     },
+     {
+      "count": "3",
+      "item": "Fox & Fowle Architects"
+     },
+     {
+      "count": "3",
+      "item": "Edward Larrabee Barnes"
+     },
+     {
+      "count": "3",
+      "item": "Schuman, Lichtenstein, Claman, Efron"
+     },
+     {
+      "count": "3",
+      "item": "Kevin Roche John Dinkeloo and Associates"
+     },
+     {
+      "count": "3",
+      "item": "The Gruzen Partnership"
+     },
+     {
+      "count": "3",
+      "item": "Perkins Eastman"
+     },
+     {
+      "count": "3",
+      "item": "Schuman, Lichtenstein, Claman & Efron"
+     },
+     {
+      "count": "3",
+      "item": "Max Wechsler"
+     },
+     {
+      "count": "2",
+      "item": "Handel Architects"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "Building Architect is the architect of the building.\nThe sources for this field are varied, including legal records, published information,  and discussions with the current owner.",
+   "fieldName": "building_architect",
+   "format": {},
+   "id": 444389465,
+   "name": "Building_Architect",
+   "position": 17,
+   "renderTypeName": "text",
+   "tableColumnId": 82853537
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "William Lescaze & Associates; William Leggio Architects (for alteration in 2002)",
+    "non_null": "363",
+    "null": "29",
+    "smallest": "2015 Modification: Matthews Nielsen Landscape Architects, PC and LightTime Design [2000 Sources: Philip Birnbaum & Associates; Thomas Balsley Associates; Landgarden Landscape Architects (for alteration)]",
+    "top": [
+     {
+      "count": "33",
+      "item": "Emery Roth & Sons"
+     },
+     {
+      "count": "31",
+      "item": "Philip Birnbaum"
+     },
+     {
+      "count": "18",
+      "item": "Thomas Balsley Associates"
+     },
+     {
+      "count": "8",
+      "item": "Skidmore, Owings & Merrill"
+     },
+     {
+      "count": "6",
+      "item": "Liebman Liebman Associates"
+     },
+     {
+      "count": "5",
+      "item": "Kahn and Jacobs"
+     },
+     {
+      "count": "4",
+      "item": "Quennell Rothschild Associates"
+     },
+     {
+      "count": "3",
+      "item": "Kevin Roche John Dinkeloo and Associates"
+     },
+     {
+      "count": "3",
+      "item": "Max Wechsler"
+     },
+     {
+      "count": "3",
+      "item": "Fox & Fowle Architects"
+     },
+     {
+      "count": "3",
+      "item": "Frank Williams & Associates"
+     },
+     {
+      "count": "3",
+      "item": "Schuman, Lichtenstein, Claman"
+     },
+     {
+      "count": "2",
+      "item": "Murphy/Jahn"
+     },
+     {
+      "count": "2",
+      "item": "M. Paul Friedberg & Partners"
+     },
+     {
+      "count": "2",
+      "item": "Horace Ginsbern"
+     },
+     {
+      "count": "2",
+      "item": "Harry F. Green"
+     },
+     {
+      "count": "2",
+      "item": "James Corner Field Operations"
+     },
+     {
+      "count": "2",
+      "item": "Field Operations"
+     },
+     {
+      "count": "2",
+      "item": "Harrison and Abramovitz"
+     },
+     {
+      "count": "2",
+      "item": "Abel Bainnson and Associates"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "Principal Public Space Designer is the designer who designed or redesigned the public space,  and frequently is the building architect.\nThe sources for this field are varied, including legal records, published information,  and discussions with the current owner.",
+   "fieldName": "principal_public_space",
+   "format": {},
+   "id": 444389466,
+   "name": "Principal_Public_Space_Designer",
+   "position": 18,
+   "renderTypeName": "text",
+   "tableColumnId": 82853538
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "Variance Arcade 3342.00 sf",
+    "non_null": "356",
+    "null": "36",
+    "smallest": "Access Area 0.00 sf; Exhibit Area 0.00 sf; Pedestrian Circulation Space 0.00 sf",
+    "top": [
+     {
+      "count": "2",
+      "item": "Through Block Connection 3012.45 sf"
+     },
+     {
+      "count": "2",
+      "item": "Through Block Connection 3012.00 sf"
+     },
+     {
+      "count": "1",
+      "item": "Additional Plaza 0.00 sf; Plaza 13962.00 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 0.00 sf; Plaza 19500.00 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 0.00 sf; Residential Plaza 12093.00 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 10254.00 sf; Elevated Plaza 41485.00 sf; Plaza 33307.00 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 1035.72 sf; Plaza 8562.55 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 1398.00 sf; Landscaped Terrace 0.00 sf; Plaza 3913.00 sf; Through Block Arcade 4621.00 sf; Urban Plaza 7906.00 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 10401.75 sf; Plaza 19137.80 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 10970.90 sf; Plaza 17596.90 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 1119.00 sf; Plaza 14851.00 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 1123.66 sf; Plaza 1942.00 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 1160.00 sf; Plaza 11385.00 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 12004.25 sf; Sidewalk Widening 1406.00 sf; Urban Plaza 5887.00 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 12930.00 sf; Publicly Accessible Lobby 0.00 sf; Sidewalk Widening 3600.00 sf; Urban Plaza 9630.00 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 10335.00 sf; Plaza 4956.00 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 1443.55 sf; Plaza 1386.18 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 1460.00 sf; Sidewalk Widening 3714.00 sf; Urban Plaza 4258.00 sf"
+     },
+     {
+      "count": "1",
+      "item": "Arcade 1500.00 sf"
+     },
+     {
+      "count": "1",
+      "item": "Additional Residential Plaza 3280.00 sf; Arcade 2490.32 sf; Residential Plaza 6100.83 sf"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "Size Required is the legally required size of the public space(s) at the development.",
+   "fieldName": "size_required",
+   "format": {},
+   "id": 444389467,
+   "name": "Size_Required",
+   "position": 19,
+   "renderTypeName": "text",
+   "tableColumnId": 82853539
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "Restricted Hours",
+    "non_null": "358",
+    "null": "34",
+    "smallest": "24 Hours",
+    "top": [
+     {
+      "count": "260",
+      "item": "24 Hours"
+     },
+     {
+      "count": "56",
+      "item": "Restricted Hours"
+     },
+     {
+      "count": "34",
+      "item": "24 Hours; Restricted Hours"
+     },
+     {
+      "count": "5",
+      "item": "24 Hours; Closing for Events; Restricted Hours"
+     },
+     {
+      "count": "3",
+      "item": "Closing for Events; Restricted Hours"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "Hours of Access Required is the legally required hours that the public space(s)  at the development must be open to the public.",
+   "fieldName": "hour_of_access_required",
+   "format": {},
+   "id": 444389468,
+   "name": "Hour_Of_Access_Required",
+   "position": 20,
+   "renderTypeName": "text",
+   "tableColumnId": 82853541
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "Trees on Street",
+    "non_null": "360",
+    "null": "32",
+    "smallest": "Artwork",
+    "top": [
+     {
+      "count": "109",
+      "item": "None"
+     },
+     {
+      "count": "21",
+      "item": "Bicycle Parking; Drinking Fountain; Lighting; Litter Receptacles; Planting; Plaque/Sign; Seating; Trees on Street; Trees within Space"
+     },
+     {
+      "count": "9",
+      "item": "Bicycle Parking; Drinking Fountain; Lighting; Litter Receptacles; Planting; Plaque/Sign; Seating; Trees on Street; Trees within Space; Water Feature"
+     },
+     {
+      "count": "7",
+      "item": "Bicycle Parking; Drinking Fountain; Lighting; Litter Receptacles; Other Required; Planting; Plaque/Sign; Seating; Trees on Street; Trees within Space"
+     },
+     {
+      "count": "6",
+      "item": "Lighting; Plaque/Sign"
+     },
+     {
+      "count": "5",
+      "item": "Artwork; Bicycle Parking; Drinking Fountain; Lighting; Litter Receptacles; Planting; Plaque/Sign; Seating; Trees on Street; Trees within Space"
+     },
+     {
+      "count": "4",
+      "item": "Lighting; Litter Receptacles; Planting; Plaque/Sign; Retail Frontage; Seating; Trees on Street; Trees within Space"
+     },
+     {
+      "count": "4",
+      "item": "Plaque/Sign"
+     },
+     {
+      "count": "4",
+      "item": "Bicycle Parking; Drinking Fountain; Lighting; Litter Receptacles; Planting; Plaque/Sign; Retail Frontage; Seating; Tables; Trees on Street; Trees within Space"
+     },
+     {
+      "count": "3",
+      "item": "Artwork; Bicycle Parking; Drinking Fountain; Lighting; Litter Receptacles; Planting; Plaque/Sign; Retail Frontage; Seating; Trees on Street; Trees within Space"
+     },
+     {
+      "count": "2",
+      "item": "Lighting; Litter Receptacles; Planting; Plaque/Sign; Seating; Trees on Street; Trees within Space"
+     },
+     {
+      "count": "2",
+      "item": "Bicycle Parking; Drinking Fountain; Lighting; Litter Receptacles; None; Planting; Plaque/Sign; Retail Frontage; Seating; Trees on Street; Trees within Space"
+     },
+     {
+      "count": "2",
+      "item": "Bicycle Parking; Drinking Fountain; Lighting; Litter Receptacles; Planting; Plaque/Sign; Retail Frontage; Seating; Trees on Street; Trees within Space"
+     },
+     {
+      "count": "2",
+      "item": "Bicycle Parking; Drinking Fountain; Lighting; Litter Receptacles; Planting; Plaque/Sign; Retail Frontage; Seating; Tables; Trees within Space"
+     },
+     {
+      "count": "2",
+      "item": "Artwork; Bicycle Parking; Drinking Fountain; Lighting; Litter Receptacles; Planting; Plaque/Sign; Retail Frontage; Seating; Tables; Trees on Street; Trees within Space"
+     },
+     {
+      "count": "2",
+      "item": "Lighting; Other Required; Planting; Plaque/Sign; Seating; Trees on Street; Trees within Space"
+     },
+     {
+      "count": "2",
+      "item": "Lighting; Litter Receptacles; Planting; Plaque/Sign; Seating"
+     },
+     {
+      "count": "2",
+      "item": "Lighting; Litter Receptacles; Planting; Plaque/Sign; Seating; Tables; Trees within Space"
+     },
+     {
+      "count": "2",
+      "item": "Litter Receptacles; Planting; Plaque/Sign; Seating"
+     },
+     {
+      "count": "2",
+      "item": "Bicycle Parking; Drinking Fountain; Lighting; Litter Receptacles; None; Planting; Plaque/Sign; Seating; Tables; Trees within Space"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "Amenities Required is the legally required amenities at the public space(s)  at the development.",
+   "fieldName": "amenities_required",
+   "format": {},
+   "id": 444389469,
+   "name": "Amenities_Required",
+   "position": 21,
+   "renderTypeName": "text",
+   "tableColumnId": 82853542
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "Yes",
+    "non_null": "77",
+    "null": "315",
+    "smallest": "10,600 sf exhibit area (Sony Wonder) required to be open Tuesday through Saturday, 9:30 am to 5:00 pm; 70-seat assembly space within the exhibit area available for use by the city's non-profit community for meetings when not in use by Sony Wonder; access to and from Covered Pedestrian Space and Madison Avenue through Sony office building lobby; mobile vendor cart of approximately 65 sf to sell merchandise and/or food",
+    "top": [
+     {
+      "count": "3",
+      "item": "skylight"
+     },
+     {
+      "count": "2",
+      "item": "green screen"
+     },
+     {
+      "count": "1",
+      "item": "12 lamp posts of the kind used throughout the City's public park system"
+     },
+     {
+      "count": "1",
+      "item": "1 Canopy; Steps are 5\" high with 15\" tread; water features"
+     },
+     {
+      "count": "1",
+      "item": "1 unenclosed pavilion"
+     },
+     {
+      "count": "1",
+      "item": "2 additional amenities"
+     },
+     {
+      "count": "1",
+      "item": "2 legitimate theaters (one of 1,600 to 1,800 seats and one of 350 to 650 seats)"
+     },
+     {
+      "count": "1",
+      "item": "adjacent wall of Brooklyn Academy of Music covered in planting"
+     },
+     {
+      "count": "1",
+      "item": "2 security guards to patrol spaces during public hours"
+     },
+     {
+      "count": "1",
+      "item": "4,839 sf open exhibit area, 858 sf enclosed exhibit area, 365 sf"
+     },
+     {
+      "count": "1",
+      "item": "577 sf trellis; connection to the adjacent public space at 23 Columbus Avenue (Regent)"
+     },
+     {
+      "count": "1",
+      "item": "access from 8:00 am to 10:00 pm from Through Block Arcade to passageway connecting to adjacent Trump Tower and to Fifth Avenue"
+     },
+     {
+      "count": "1",
+      "item": "access from Plaza to lobby"
+     },
+     {
+      "count": "1",
+      "item": "access ramp from West 56th Street to Plaza"
+     },
+     {
+      "count": "1",
+      "item": "access to Covered Pedestrian Space from southwest corner of building on East 53rd Street, from northeast corner of building on Third Avenue through retail space and restaurant, from Open Air Concourse through building lobby, from Plaza on Lexington Avenue"
+     },
+     {
+      "count": "1",
+      "item": "2 kiosks; Pedestrian Underpass between One Liberty Plaza and World Trade Center extending from the northwest corner of Church and Cortlandt Streets westward under Church Street"
+     },
+     {
+      "count": "1",
+      "item": "children's play area"
+     },
+     {
+      "count": "1",
+      "item": "Childrens play area, game tables and associated seating provided."
+     },
+     {
+      "count": "1",
+      "item": "children's play equipment in \"poured in place\" safety surface, surveillance camera"
+     },
+     {
+      "count": "1",
+      "item": "154 sf gazebo, separate bus waiting area on East 59th Street with benches and seatwall"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "Other Required is the other legally required amenities at the public space(s) at the development.",
+   "fieldName": "other_required",
+   "format": {},
+   "id": 444389470,
+   "name": "Other_Required",
+   "position": 22,
+   "renderTypeName": "text",
+   "tableColumnId": 82853543
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "Other Permitted",
+    "non_null": "30",
+    "null": "362",
+    "smallest": "Open Air Cafe",
+    "top": [
+     {
+      "count": "17",
+      "item": "Open Air Cafe"
+     },
+     {
+      "count": "12",
+      "item": "Other Permitted"
+     },
+     {
+      "count": "1",
+      "item": "Open Air Cafe; Other Permitted"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "Permitted Required is the permitted amenities at the public space(s) at the development.",
+   "fieldName": "permitted_amenities",
+   "format": {},
+   "id": 444389471,
+   "name": "Permitted_Amenities",
+   "position": 23,
+   "renderTypeName": "text",
+   "tableColumnId": 82853544
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "Unknown",
+    "non_null": "373",
+    "null": "19",
+    "smallest": "Full/Partial",
+    "top": [
+     {
+      "count": "350",
+      "item": "Full/Partial"
+     },
+     {
+      "count": "19",
+      "item": "None"
+     },
+     {
+      "count": "4",
+      "item": "Unknown"
+     }
+    ]
+   },
+   "dataTypeName": "text",
+   "description": "Physically Disabled is a description of whether or not the public spaces, taken as  a whole, are wheelchair accessible to some degree to the physically disabled.\nFull/Partial means that the spaces are fully or partially accessible.",
+   "fieldName": "physically_disabled",
+   "format": {},
+   "id": 444389472,
+   "name": "Physically_Disabled",
+   "position": 24,
+   "renderTypeName": "text",
+   "tableColumnId": 82853545
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "40.833607",
+    "non_null": "392",
+    "null": "0",
+    "smallest": "40.572811",
+    "top": [
+     {
+      "count": "2",
+      "item": "40.70741"
+     },
+     {
+      "count": "1",
+      "item": "40.59183"
+     },
+     {
+      "count": "1",
+      "item": "40.700345"
+     },
+     {
+      "count": "1",
+      "item": "40.647158"
+     },
+     {
+      "count": "1",
+      "item": "40.686202"
+     },
+     {
+      "count": "1",
+      "item": "40.687418"
+     },
+     {
+      "count": "1",
+      "item": "40.688253"
+     },
+     {
+      "count": "1",
+      "item": "40.690409"
+     },
+     {
+      "count": "1",
+      "item": "40.691476"
+     },
+     {
+      "count": "1",
+      "item": "40.693222"
+     },
+     {
+      "count": "1",
+      "item": "40.693812"
+     },
+     {
+      "count": "1",
+      "item": "40.694078"
+     },
+     {
+      "count": "1",
+      "item": "40.698099"
+     },
+     {
+      "count": "1",
+      "item": "40.699584"
+     },
+     {
+      "count": "1",
+      "item": "40.6053"
+     },
+     {
+      "count": "1",
+      "item": "40.70116"
+     },
+     {
+      "count": "1",
+      "item": "40.702153"
+     },
+     {
+      "count": "1",
+      "item": "40.702266"
+     },
+     {
+      "count": "1",
+      "item": "40.70276"
+     },
+     {
+      "count": "1",
+      "item": "40.583936"
+     }
+    ]
+   },
+   "dataTypeName": "number",
+   "description": "The latitude of the development.",
+   "fieldName": "latitude",
+   "format": {},
+   "id": 444389473,
+   "name": "Latitude",
+   "position": 25,
+   "renderTypeName": "number",
+   "tableColumnId": 82853546
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "-73.753265",
+    "non_null": "392",
+    "null": "0",
+    "smallest": "-74.13974",
+    "top": [
+     {
+      "count": "1",
+      "item": "-74.078641"
+     },
+     {
+      "count": "1",
+      "item": "-74.015837"
+     },
+     {
+      "count": "1",
+      "item": "-74.014994"
+     },
+     {
+      "count": "1",
+      "item": "-74.01485"
+     },
+     {
+      "count": "1",
+      "item": "-74.014659"
+     },
+     {
+      "count": "1",
+      "item": "-74.013878"
+     },
+     {
+      "count": "1",
+      "item": "-74.01373"
+     },
+     {
+      "count": "1",
+      "item": "-74.013714"
+     },
+     {
+      "count": "1",
+      "item": "-74.013389"
+     },
+     {
+      "count": "1",
+      "item": "-74.013301"
+     },
+     {
+      "count": "1",
+      "item": "-74.013266"
+     },
+     {
+      "count": "1",
+      "item": "-74.013024"
+     },
+     {
+      "count": "1",
+      "item": "-74.012593"
+     },
+     {
+      "count": "1",
+      "item": "-74.012274"
+     },
+     {
+      "count": "1",
+      "item": "-74.012236"
+     },
+     {
+      "count": "1",
+      "item": "-74.012021"
+     },
+     {
+      "count": "1",
+      "item": "-74.01183"
+     },
+     {
+      "count": "1",
+      "item": "-74.011787"
+     },
+     {
+      "count": "1",
+      "item": "-74.011257"
+     },
+     {
+      "count": "1",
+      "item": "-74.13974"
+     }
+    ]
+   },
+   "dataTypeName": "number",
+   "description": "The longitude of the development.",
+   "fieldName": "longitude",
+   "format": {},
+   "id": 444389474,
+   "name": "Longitude",
+   "position": 26,
+   "renderTypeName": "number",
+   "tableColumnId": 82853547
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "1052762",
+    "non_null": "392",
+    "null": "0",
+    "smallest": "945440",
+    "top": [
+     {
+      "count": "2",
+      "item": "991544"
+     },
+     {
+      "count": "2",
+      "item": "991191"
+     },
+     {
+      "count": "2",
+      "item": "990213"
+     },
+     {
+      "count": "1",
+      "item": "979859"
+     },
+     {
+      "count": "1",
+      "item": "980186"
+     },
+     {
+      "count": "1",
+      "item": "980402"
+     },
+     {
+      "count": "1",
+      "item": "980133"
+     },
+     {
+      "count": "1",
+      "item": "980448"
+     },
+     {
+      "count": "1",
+      "item": "980538"
+     },
+     {
+      "count": "1",
+      "item": "980562"
+     },
+     {
+      "count": "1",
+      "item": "980572"
+     },
+     {
+      "count": "1",
+      "item": "980639"
+     },
+     {
+      "count": "1",
+      "item": "980759"
+     },
+     {
+      "count": "1",
+      "item": "980847"
+     },
+     {
+      "count": "1",
+      "item": "980917"
+     },
+     {
+      "count": "1",
+      "item": "980858"
+     },
+     {
+      "count": "1",
+      "item": "980970"
+     },
+     {
+      "count": "1",
+      "item": "980982"
+     },
+     {
+      "count": "1",
+      "item": "981129"
+     },
+     {
+      "count": "1",
+      "item": "980443"
+     }
+    ]
+   },
+   "dataTypeName": "number",
+   "description": "X coordinate in NAD 1983 State Plane New York Long Island FIPS 3104 (US Feet)",
+   "fieldName": "xcoordinate",
+   "format": {},
+   "id": 444389475,
+   "name": "XCoordinate",
+   "position": 27,
+   "renderTypeName": "number",
+   "tableColumnId": 82853548
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "243004",
+    "non_null": "392",
+    "null": "0",
+    "smallest": "147967",
+    "top": [
+     {
+      "count": "2",
+      "item": "216933"
+     },
+     {
+      "count": "2",
+      "item": "197005"
+     },
+     {
+      "count": "2",
+      "item": "211577"
+     },
+     {
+      "count": "1",
+      "item": "210947"
+     },
+     {
+      "count": "1",
+      "item": "213099"
+     },
+     {
+      "count": "1",
+      "item": "216323"
+     },
+     {
+      "count": "1",
+      "item": "211383"
+     },
+     {
+      "count": "1",
+      "item": "196288"
+     },
+     {
+      "count": "1",
+      "item": "221994"
+     },
+     {
+      "count": "1",
+      "item": "205261"
+     },
+     {
+      "count": "1",
+      "item": "214806"
+     },
+     {
+      "count": "1",
+      "item": "225048"
+     },
+     {
+      "count": "1",
+      "item": "195525"
+     },
+     {
+      "count": "1",
+      "item": "192051"
+     },
+     {
+      "count": "1",
+      "item": "200069"
+     },
+     {
+      "count": "1",
+      "item": "192148"
+     },
+     {
+      "count": "1",
+      "item": "214592"
+     },
+     {
+      "count": "1",
+      "item": "223745"
+     },
+     {
+      "count": "1",
+      "item": "217258"
+     },
+     {
+      "count": "1",
+      "item": "217885"
+     }
+    ]
+   },
+   "dataTypeName": "number",
+   "description": "Y coordinate in NAD 1983 State Plane New York Long Island FIPS 3104 (US Feet)",
+   "fieldName": "ycoordinate",
+   "format": {},
+   "id": 444389476,
+   "name": "YCoordinate",
+   "position": 28,
+   "renderTypeName": "number",
+   "tableColumnId": 82853549
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "50",
+    "non_null": "392",
+    "null": "0",
+    "smallest": "1",
+    "top": [
+     {
+      "count": "158",
+      "item": "4"
+     },
+     {
+      "count": "59",
+      "item": "1"
+     },
+     {
+      "count": "58",
+      "item": "5"
+     },
+     {
+      "count": "36",
+      "item": "6"
+     },
+     {
+      "count": "28",
+      "item": "3"
+     },
+     {
+      "count": "20",
+      "item": "2"
+     },
+     {
+      "count": "9",
+      "item": "33"
+     },
+     {
+      "count": "6",
+      "item": "8"
+     },
+     {
+      "count": "4",
+      "item": "35"
+     },
+     {
+      "count": "3",
+      "item": "17"
+     },
+     {
+      "count": "2",
+      "item": "26"
+     },
+     {
+      "count": "1",
+      "item": "50"
+     },
+     {
+      "count": "1",
+      "item": "7"
+     },
+     {
+      "count": "1",
+      "item": "20"
+     },
+     {
+      "count": "1",
+      "item": "24"
+     },
+     {
+      "count": "1",
+      "item": "31"
+     },
+     {
+      "count": "1",
+      "item": "34"
+     },
+     {
+      "count": "1",
+      "item": "47"
+     },
+     {
+      "count": "1",
+      "item": "48"
+     },
+     {
+      "count": "1",
+      "item": "49"
+     }
+    ]
+   },
+   "dataTypeName": "number",
+   "description": "The City Council district in which the public space is located.",
+   "fieldName": "council_district",
+   "format": {},
+   "id": 444389477,
+   "name": "Council District",
+   "position": 29,
+   "renderTypeName": "number",
+   "tableColumnId": 82853550
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "1032.02",
+    "non_null": "392",
+    "null": "0",
+    "smallest": "7",
+    "top": [
+     {
+      "count": "15",
+      "item": "7"
+     },
+     {
+      "count": "13",
+      "item": "90"
+     },
+     {
+      "count": "13",
+      "item": "9"
+     },
+     {
+      "count": "12",
+      "item": "13"
+     },
+     {
+      "count": "11",
+      "item": "137"
+     },
+     {
+      "count": "11",
+      "item": "102"
+     },
+     {
+      "count": "10",
+      "item": "15.02"
+     },
+     {
+      "count": "10",
+      "item": "72"
+     },
+     {
+      "count": "10",
+      "item": "88"
+     },
+     {
+      "count": "8",
+      "item": "125"
+     },
+     {
+      "count": "8",
+      "item": "104"
+     },
+     {
+      "count": "8",
+      "item": "131"
+     },
+     {
+      "count": "7",
+      "item": "124"
+     },
+     {
+      "count": "7",
+      "item": "94"
+     },
+     {
+      "count": "6",
+      "item": "92"
+     },
+     {
+      "count": "6",
+      "item": "80"
+     },
+     {
+      "count": "6",
+      "item": "119"
+     },
+     {
+      "count": "6",
+      "item": "118"
+     },
+     {
+      "count": "6",
+      "item": "112.03"
+     },
+     {
+      "count": "6",
+      "item": "100"
+     }
+    ]
+   },
+   "dataTypeName": "number",
+   "description": "The census tract in which the public space is located.",
+   "fieldName": "census_tract",
+   "format": {
+    "noCommas": "true"
+   },
+   "id": 444389478,
+   "name": "Census Tract",
+   "position": 30,
+   "renderTypeName": "number",
+   "tableColumnId": 82853540
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "5164632",
+    "non_null": "390",
+    "null": "2",
+    "smallest": "1000000",
+    "top": [
+     {
+      "count": "4",
+      "item": "1000000"
+     },
+     {
+      "count": "2",
+      "item": "4000000"
+     },
+     {
+      "count": "1",
+      "item": "1043884"
+     },
+     {
+      "count": "1",
+      "item": "1023161"
+     },
+     {
+      "count": "1",
+      "item": "1038896"
+     },
+     {
+      "count": "1",
+      "item": "1024895"
+     },
+     {
+      "count": "1",
+      "item": "1018978"
+     },
+     {
+      "count": "1",
+      "item": "1000875"
+     },
+     {
+      "count": "1",
+      "item": "1028847"
+     },
+     {
+      "count": "1",
+      "item": "2000000"
+     },
+     {
+      "count": "1",
+      "item": "1085931"
+     },
+     {
+      "count": "1",
+      "item": "1088442"
+     },
+     {
+      "count": "1",
+      "item": "1042137"
+     },
+     {
+      "count": "1",
+      "item": "1035727"
+     },
+     {
+      "count": "1",
+      "item": "1035407"
+     },
+     {
+      "count": "1",
+      "item": "2127324"
+     },
+     {
+      "count": "1",
+      "item": "1081406"
+     },
+     {
+      "count": "1",
+      "item": "1027195"
+     },
+     {
+      "count": "1",
+      "item": "1043869"
+     },
+     {
+      "count": "1",
+      "item": "1000872"
+     }
+    ]
+   },
+   "dataTypeName": "number",
+   "description": "The Building Identification Number (BIN) is a unique number assigned by the  Department of City Planning (DCP) and used by the Department of Buildings (DOB)  for each building in NYC.\nThis field consists of the borough code followed by six digits unique for buildings  within that borough.",
+   "fieldName": "bin",
+   "format": {
+    "noCommas": "true"
+   },
+   "id": 444389479,
+   "name": "BIN",
+   "position": 31,
+   "renderTypeName": "number",
+   "tableColumnId": 82853552
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "largest": "5019550001",
+    "non_null": "390",
+    "null": "2",
+    "smallest": "1000047501",
+    "top": [
+     {
+      "count": "1",
+      "item": "1010220043"
+     },
+     {
+      "count": "1",
+      "item": "3087737501"
+     },
+     {
+      "count": "1",
+      "item": "1013220001"
+     },
+     {
+      "count": "1",
+      "item": "3002660001"
+     },
+     {
+      "count": "1",
+      "item": "1008057502"
+     },
+     {
+      "count": "1",
+      "item": "1015330001"
+     },
+     {
+      "count": "1",
+      "item": "3000870009"
+     },
+     {
+      "count": "1",
+      "item": "1004250004"
+     },
+     {
+      "count": "1",
+      "item": "1002160001"
+     },
+     {
+      "count": "1",
+      "item": "1007027502"
+     },
+     {
+      "count": "1",
+      "item": "1008177501"
+     },
+     {
+      "count": "1",
+      "item": "1000700043"
+     },
+     {
+      "count": "1",
+      "item": "1001280002"
+     },
+     {
+      "count": "1",
+      "item": "1008397501"
+     },
+     {
+      "count": "1",
+      "item": "1014497501"
+     },
+     {
+      "count": "1",
+      "item": "1010200005"
+     },
+     {
+      "count": "1",
+      "item": "1011137502"
+     },
+     {
+      "count": "1",
+      "item": "1008980001"
+     },
+     {
+      "count": "1",
+      "item": "1010460047"
+     },
+     {
+      "count": "1",
+      "item": "1015347501"
+     }
+    ]
+   },
+   "dataTypeName": "number",
+   "description": "A concatenation of the borough code, tax block and tax lot. This field consists of  the borough code followed by the tax block followed by the tax lot. The borough  code is one numeric digit. The tax block is one to five numeric digits, preceded  with leading zeros when the block is less than five digits. The tax lot is one to  four digits and is preceded with leading zeros when the lot is less than four digits.",
+   "fieldName": "bbl",
+   "format": {
+    "noCommas": "true"
+   },
+   "id": 444389480,
+   "name": "BBL",
+   "position": 32,
+   "renderTypeName": "number",
+   "tableColumnId": 82853503
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "non_null": "0",
+    "null": "392"
+   },
+   "dataTypeName": "text",
+   "description": "The Neighborhood Tabulaton Area (NTA) in which the public space is located. NTAs were  created by aggregating census tracts. NTAs were delineated with the need for both geographic  specificity and statistical reliability in mind.  Though NTA boundaries and their associated  names roughly correspond with many neighborhoods commonly recognized by New Yorkers, NTAs  are not intended to definitively represent neighborhoods, nor are they intended to be exhaustive  of all possible names and understandings of neighborhoods throughout New York City.",
+   "fieldName": "nta",
+   "format": {},
+   "id": 444389481,
+   "name": "NTA",
+   "position": 33,
+   "renderTypeName": "text",
+   "tableColumnId": 82853551
+  },
+  {
+   "cachedContents": {
+    "cardinality": "392",
+    "count": "392",
+    "non_null": "392",
+    "null": "0",
+    "top": [
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.970226,
+        40.753494
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.982089,
+        40.745402
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.975684,
+        40.744286
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.952402,
+        40.78051
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.970037,
+        40.758398
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.960695,
+        40.776088
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.964391,
+        40.765124
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.973042,
+        40.762105
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.971256,
+        40.75056
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.98057,
+        40.742964
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.98336,
+        40.756672
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.980893,
+        40.762046
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.960813,
+        40.766067
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.969853,
+        40.750285
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.983038,
+        40.75814
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -74.005677,
+        40.71097
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.969605,
+        40.76254
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.969367,
+        40.761387
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.978013,
+        40.760925
+       ],
+       "type": "Point"
+      }
+     },
+     {
+      "count": "1",
+      "item": {
+       "coordinates": [
+        -73.980027,
+        40.761768
+       ],
+       "type": "Point"
+      }
+     }
+    ]
+   },
+   "dataTypeName": "point",
+   "description": "",
+   "fieldName": "geocoded_column",
+   "format": {},
+   "id": 444389482,
+   "name": "Location",
+   "position": 34,
+   "renderTypeName": "point",
+   "tableColumnId": 82853620
+  },
+  {
+   "computationStrategy": {
+    "parameters": {
+     "primary_key": "_feature_id",
+     "region": "_f5dn-yrer"
+    },
+    "source_columns": [
+     "geocoded_column"
+    ],
+    "type": "georegion_match_on_point"
+   },
+   "dataTypeName": "number",
+   "description": "",
+   "fieldName": ":@computed_region_f5dn_yrer",
+   "format": {},
+   "id": 444389484,
+   "name": "Community Districts",
+   "position": 35,
+   "renderTypeName": "number",
+   "tableColumnId": 82853622
+  },
+  {
+   "computationStrategy": {
+    "parameters": {
+     "primary_key": "_feature_id",
+     "region": "_yeji-bk3q"
+    },
+    "source_columns": [
+     "geocoded_column"
+    ],
+    "type": "georegion_match_on_point"
+   },
+   "dataTypeName": "number",
+   "description": "",
+   "fieldName": ":@computed_region_yeji_bk3q",
+   "format": {},
+   "id": 444389485,
+   "name": "Borough Boundaries",
+   "position": 36,
+   "renderTypeName": "number",
+   "tableColumnId": 82853623
+  },
+  {
+   "computationStrategy": {
+    "parameters": {
+     "primary_key": "_feature_id",
+     "region": "_92fq-4b7q"
+    },
+    "source_columns": [
+     "geocoded_column"
+    ],
+    "type": "georegion_match_on_point"
+   },
+   "dataTypeName": "number",
+   "description": "",
+   "fieldName": ":@computed_region_92fq_4b7q",
+   "format": {},
+   "id": 444389486,
+   "name": "City Council Districts",
+   "position": 37,
+   "renderTypeName": "number",
+   "tableColumnId": 82853624
+  },
+  {
+   "computationStrategy": {
+    "parameters": {
+     "primary_key": "_feature_id",
+     "region": "_sbqj-enih"
+    },
+    "source_columns": [
+     "geocoded_column"
+    ],
+    "type": "georegion_match_on_point"
+   },
+   "dataTypeName": "number",
+   "description": "",
+   "fieldName": ":@computed_region_sbqj_enih",
+   "format": {},
+   "id": 444389487,
+   "name": "Police Precincts",
+   "position": 38,
+   "renderTypeName": "number",
+   "tableColumnId": 82853625
+  },
+  {
+   "computationStrategy": {
+    "parameters": {
+     "primary_key": "_feature_id",
+     "region": "_efsh-h5xi"
+    },
+    "source_columns": [
+     "geocoded_column"
+    ],
+    "type": "georegion_match_on_point"
+   },
+   "dataTypeName": "number",
+   "description": "",
+   "fieldName": ":@computed_region_efsh_h5xi",
+   "format": {},
+   "id": 444389483,
+   "name": "Zip Codes",
+   "position": 39,
+   "renderTypeName": "number",
+   "tableColumnId": 82853621
+  }
+ ],
+ "createdAt": 1561049211,
+ "description": "Privately owned public spaces, also known by the acronym POPS, are outdoor  and indoor spaces provided for public enjoyment by private owners in exchange  for bonus floor area or waivers, an incentive first introduced into New York City's  zoning regulations in 1961. To find out more about POPS, visit the Department  of City Planning's website at http://nyc.gov/pops. This database contains detailed  information about each privately owned public space in New York City.\n\nData Source: Privately Owned Public Space Database (2018), owned and maintained  by the New York City Department of City Planning and created in collaboration  with Jerold S. Kayden and The Municipal Art Society of New York.\nAll previously released versions of this data are available on the <a href=\"https://www.nyc.gov/content/planning/pages/resources/datasets/privately-owned-public-space\">DCP Website: BYTES of the BIG APPLE</a>. Current version: 25v2",
+ "diciBackend": false,
+ "displayType": "table",
+ "downloadCount": 52179,
+ "flags": [
+  "default",
+  "ownerMayBeContacted",
+  "restorable",
+  "restorePossibleForType"
+ ],
+ "grants": [
+  {
+   "flags": [
+    "public"
+   ],
+   "inherited": false,
+   "type": "viewer"
+  }
+ ],
+ "hideFromCatalog": false,
+ "hideFromDataJson": false,
+ "id": "rvih-nhyn",
+ "locked": false,
+ "metadata": {
+  "attachments": [
+   {
+    "assetId": "1e192c67-8243-49a1-82ac-193a234b2d8c",
+    "filename": "pops_datadictionary.xlsx",
+    "name": "pops_datadictionary.xlsx"
+   }
+  ],
+  "availableDisplayTypes": [
+   "table",
+   "fatrow",
+   "page"
+  ],
+  "custom_fields": {
+   "Dataset Information": {
+    "Agency": "Department of City Planning (DCP)"
+   },
+   "Update": {
+    "Automation": "Yes",
+    "Data Change Frequency": "Bi-annually",
+    "Date Made Public": "7/9/2019",
+    "Update Frequency": "Every 6 months"
+   }
+  },
+  "rowLabel": "Privately Owned Public Space"
+ },
+ "name": "Privately Owned Public Spaces (POPS)",
+ "newBackend": true,
+ "numberOfComments": 0,
+ "oid": 33144061,
+ "owner": {
+  "displayName": "NYC OpenData",
+  "flags": [
+   "acceptedEula",
+   "mayBeStoriesCoOwner"
+  ],
+  "id": "5fuc-pqz2",
+  "profileImageUrlLarge": "/api/users/5fuc-pqz2/profile_images/LARGE",
+  "profileImageUrlMedium": "/api/users/5fuc-pqz2/profile_images/THUMB",
+  "profileImageUrlSmall": "/api/users/5fuc-pqz2/profile_images/TINY",
+  "screenName": "NYC OpenData",
+  "type": "interactive"
+ },
+ "provenance": "official",
+ "publicationAppendEnabled": false,
+ "publicationDate": 1577377157,
+ "publicationGroup": 16294495,
+ "publicationStage": "published",
+ "query": {},
+ "rights": [
+  "read"
+ ],
+ "rowsUpdatedAt": 1760459012,
+ "rowsUpdatedBy": "iqqb-gm94",
+ "tableAuthor": {
+  "displayName": "NYC OpenData",
+  "flags": [
+   "acceptedEula",
+   "mayBeStoriesCoOwner"
+  ],
+  "id": "5fuc-pqz2",
+  "profileImageUrlLarge": "/api/users/5fuc-pqz2/profile_images/LARGE",
+  "profileImageUrlMedium": "/api/users/5fuc-pqz2/profile_images/THUMB",
+  "profileImageUrlSmall": "/api/users/5fuc-pqz2/profile_images/TINY",
+  "screenName": "NYC OpenData",
+  "type": "interactive"
+ },
+ "tableId": 16795625,
+ "tags": [
+  "dcp",
+  "privately owned public space database",
+  "pops"
+ ],
+ "totalTimesRated": 0,
+ "viewCount": 18898,
+ "viewLastModified": 1760459011,
+ "viewType": "tabular"
+}

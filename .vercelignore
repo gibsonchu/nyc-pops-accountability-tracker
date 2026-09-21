@@ -1,0 +1,11 @@
+.venv
+data/raw
+data/interim
+data/registry
+data/review
+data/schema
+data/processed
+tests
+pops_tracker
+reports
+__pycache__

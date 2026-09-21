@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NYC POPS Accountability Tracker</title>
+<meta name="description" content="Documented DOB enforcement history at New York City's privately owned public spaces, joined to the 2017 Comptroller audit. Preliminary; bulletins highlight selected enforcement only.">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="brand" href="#/"><span class="brand-mark" aria-hidden="true"></span><span>NYC POPS <b>Accountability Tracker</b></span></a>
+    <nav aria-label="Primary">
+      <a href="#/" data-nav="home">Explore</a>
+      <a href="#/audit" data-nav="audit">2017 audit follow-up</a>
+      <a href="#/analysis" data-nav="analysis">Analysis</a>
+      <a href="#/method" data-nav="method">Methodology</a>
+      <a href="#/data" data-nav="data">Data</a>
+    </nav>
+  </div>
+  <div class="prelim" id="prelim" role="note"></div>
+</header>
+<main id="main" class="wrap" tabindex="-1"><p class="muted">Loading…</p></main>
+<footer class="foot">
+  <div class="wrap">
+    <p id="disclaimer-foot" class="disclaimer-line"></p>
+    <p class="muted small">Built by <a href="https://github.com/gibsonchu/nyc-pops-accountability-tracker">In Spaces / NYC POPS Accountability Tracker</a>. Sources: NYC Dept. of City Planning (POPS dataset), NYC Dept. of Buildings (Monthly Enforcement Action Bulletins), NYC Comptroller (audit SR16-102A, 18 Apr 2017).</p>
+  </div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

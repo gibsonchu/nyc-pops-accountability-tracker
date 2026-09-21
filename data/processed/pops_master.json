@@ -54,7 +54,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K010001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -112,7 +112,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K010002",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -170,7 +170,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K010003",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -228,7 +228,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K020001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -286,7 +286,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K020002",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -344,7 +344,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K020003",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -402,7 +402,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K020006",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -460,7 +460,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K020007",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -518,7 +518,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K020008",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -576,7 +576,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K020009",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -634,7 +634,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K020010",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -692,7 +692,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K020011",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -750,7 +750,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K020012",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -808,7 +808,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K040001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -866,7 +866,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K130001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -924,7 +924,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=K150001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -982,7 +982,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010002",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1040,7 +1040,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010003",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1098,7 +1098,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010004",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1156,7 +1156,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010005",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1214,7 +1214,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010006",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1272,7 +1272,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010007",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1330,7 +1330,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010008",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1388,7 +1388,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010009",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1446,7 +1446,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010010",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1504,7 +1504,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010011",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1562,7 +1562,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010012",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1620,7 +1620,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010013",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1678,7 +1678,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010014",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1736,7 +1736,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010015",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1794,7 +1794,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010016",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1852,7 +1852,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010017",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1910,7 +1910,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010018",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -1968,7 +1968,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010019",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2026,7 +2026,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010020",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2084,7 +2084,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010021",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2142,7 +2142,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010022",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2200,7 +2200,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010023",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2258,7 +2258,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010024",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2316,7 +2316,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010025",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2374,7 +2374,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010026",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2432,7 +2432,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010027",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2490,7 +2490,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010028",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2548,7 +2548,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010029",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2606,7 +2606,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010030",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2664,7 +2664,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010031",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2722,7 +2722,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010032",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2780,7 +2780,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010033",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2838,7 +2838,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010034",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2896,7 +2896,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010037",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -2954,7 +2954,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010038",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3012,7 +3012,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010040",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3070,7 +3070,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010041",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3128,7 +3128,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010042",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3186,7 +3186,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010043",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3244,7 +3244,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010044",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3302,7 +3302,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010045",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3360,7 +3360,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010046",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3418,7 +3418,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010047",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3476,7 +3476,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010048",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3534,7 +3534,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010049",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3592,7 +3592,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010050",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3650,7 +3650,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010051",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3708,7 +3708,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010052",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3766,7 +3766,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010053",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3824,7 +3824,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010054",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3882,7 +3882,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010055",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3940,7 +3940,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010056",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -3998,7 +3998,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010057",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4056,7 +4056,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010058",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4114,7 +4114,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010059",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4172,7 +4172,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010060",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4230,7 +4230,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M010061",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4288,7 +4288,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M020001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4346,7 +4346,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M020002",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4404,7 +4404,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M020003",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4462,7 +4462,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M020004",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4520,7 +4520,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M020006",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4578,7 +4578,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M020007",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4636,7 +4636,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M020011",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4694,7 +4694,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M020012",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4752,7 +4752,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M030001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4810,7 +4810,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M030002",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4868,7 +4868,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M040001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4926,7 +4926,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M040002",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -4984,7 +4984,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M040003",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5042,7 +5042,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M040004",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5100,7 +5100,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M040007",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5158,7 +5158,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M040008",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5216,7 +5216,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M040009",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5274,7 +5274,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M040010",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5332,7 +5332,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M040011",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5390,7 +5390,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M040012",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5448,7 +5448,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M040013",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5506,7 +5506,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M040014",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5564,7 +5564,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M040015",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5622,7 +5622,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M040016",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5680,7 +5680,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050002",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5738,7 +5738,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050003",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5796,7 +5796,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050004",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5854,7 +5854,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050005",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5912,7 +5912,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050006",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -5970,7 +5970,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050007",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6028,7 +6028,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050008",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6086,7 +6086,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050009",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6144,7 +6144,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050010",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6202,7 +6202,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050011",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6260,7 +6260,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050012",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6318,7 +6318,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050013",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6376,7 +6376,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050014",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6434,7 +6434,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050015",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6492,7 +6492,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050016",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6550,7 +6550,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050017",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6608,7 +6608,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050018",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6666,7 +6666,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050019",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6724,7 +6724,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050020",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6782,7 +6782,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050021",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6840,7 +6840,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050022",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6898,7 +6898,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050024",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -6956,7 +6956,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050025",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7014,7 +7014,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050026",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7072,7 +7072,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050027",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7130,7 +7130,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050028",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7188,7 +7188,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050029",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7246,7 +7246,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050030",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7304,7 +7304,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050031",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7362,7 +7362,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050032",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7420,7 +7420,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050033",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7478,7 +7478,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050034",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7536,7 +7536,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050035",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7594,7 +7594,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050036",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7652,7 +7652,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050037",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7710,7 +7710,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050038",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7768,7 +7768,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050039",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7826,7 +7826,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050040",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7884,7 +7884,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050041",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -7942,7 +7942,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050042",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8000,7 +8000,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050043",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8058,7 +8058,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050045",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8116,7 +8116,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050046",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8174,7 +8174,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050047",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8232,7 +8232,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050048",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8290,7 +8290,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050049",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8348,7 +8348,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050050",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8406,7 +8406,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050051",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8464,7 +8464,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050052",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8522,7 +8522,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050053",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8580,7 +8580,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050054",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8638,7 +8638,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050055",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8696,7 +8696,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050057",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8754,7 +8754,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050058",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8812,7 +8812,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050059",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8870,7 +8870,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050060",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8928,7 +8928,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050061",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -8986,7 +8986,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050062",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9044,7 +9044,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050063",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9102,7 +9102,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050064",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9160,7 +9160,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050065",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9218,7 +9218,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050066",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9276,7 +9276,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050067",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9334,7 +9334,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050068",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9392,7 +9392,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050069",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9450,7 +9450,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050070",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9508,7 +9508,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050071",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9566,7 +9566,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050072",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9624,7 +9624,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050074",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9682,7 +9682,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050075",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9740,7 +9740,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050076",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9798,7 +9798,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050077",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9856,7 +9856,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050078",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9914,7 +9914,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050079",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -9972,7 +9972,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050081",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10030,7 +10030,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050082",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10088,7 +10088,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050083",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10146,7 +10146,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050084",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10204,7 +10204,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050085",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10262,7 +10262,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050086",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10320,7 +10320,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050087",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10378,7 +10378,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050088",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10436,7 +10436,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050089",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10494,7 +10494,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050090",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10552,7 +10552,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050091",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10610,7 +10610,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050092",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10668,7 +10668,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050093",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10726,7 +10726,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050094",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10784,7 +10784,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050095",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10842,7 +10842,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050097",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10900,7 +10900,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050100",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -10958,7 +10958,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050101",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11016,7 +11016,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050102",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11074,7 +11074,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050103",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11132,7 +11132,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050104",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11190,7 +11190,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050106",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11248,7 +11248,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050107",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11306,7 +11306,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050108",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11364,7 +11364,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050109",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11422,7 +11422,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050110",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11480,7 +11480,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050111",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11538,7 +11538,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050112",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11596,7 +11596,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050113",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11654,7 +11654,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050115",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11712,7 +11712,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050116",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11770,7 +11770,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M050117",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11828,7 +11828,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060002",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11886,7 +11886,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060003",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -11944,7 +11944,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060005",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12002,7 +12002,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060006",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12060,7 +12060,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060007",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12118,7 +12118,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060008",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12176,7 +12176,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060009",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12234,7 +12234,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060010",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12292,7 +12292,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060011",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12350,7 +12350,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060012",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12408,7 +12408,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060014",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12466,7 +12466,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060015",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12524,7 +12524,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060016",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12582,7 +12582,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060017",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12640,7 +12640,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060018",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12698,7 +12698,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060019",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12756,7 +12756,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060020",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12814,7 +12814,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060021",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12872,7 +12872,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060022",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12930,7 +12930,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060023",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -12988,7 +12988,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060024",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13046,7 +13046,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060025",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13104,7 +13104,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060026",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13162,7 +13162,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060027",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13220,7 +13220,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060028",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13278,7 +13278,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060029",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13336,7 +13336,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060030",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13394,7 +13394,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060031",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13452,7 +13452,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060032",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13510,7 +13510,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060033",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13568,7 +13568,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060034",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13626,7 +13626,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060035",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13684,7 +13684,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060037",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13742,7 +13742,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060038",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13800,7 +13800,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060039",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13858,7 +13858,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060040",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13916,7 +13916,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060041",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -13974,7 +13974,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060044",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14032,7 +14032,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060045",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14090,7 +14090,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060046",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14148,7 +14148,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060047",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14206,7 +14206,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060048",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14264,7 +14264,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060049",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14322,7 +14322,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060050",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14380,7 +14380,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060051",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14438,7 +14438,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060052",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14496,7 +14496,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060054",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14554,7 +14554,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060055",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14612,7 +14612,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060056",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14670,7 +14670,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060057",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14728,7 +14728,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060058",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14786,7 +14786,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060059",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14844,7 +14844,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060060",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14902,7 +14902,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060061",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -14960,7 +14960,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060062",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15018,7 +15018,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060063",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15076,7 +15076,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060064",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15134,7 +15134,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060065",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15192,7 +15192,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060066",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15250,7 +15250,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060067",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15308,7 +15308,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060070",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15366,7 +15366,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060072",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15424,7 +15424,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060073",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15482,7 +15482,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060074",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15540,7 +15540,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060075",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15598,7 +15598,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060076",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15656,7 +15656,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060077",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15714,7 +15714,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060078",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15772,7 +15772,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060079",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15830,7 +15830,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060081",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15888,7 +15888,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060082",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -15946,7 +15946,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060083",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16004,7 +16004,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060084",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16062,7 +16062,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060085",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16120,7 +16120,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060086",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16178,7 +16178,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060087",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16236,7 +16236,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060088",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16294,7 +16294,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060090",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16352,7 +16352,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060091",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16410,7 +16410,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M060092",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16468,7 +16468,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070005",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16526,7 +16526,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070006",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16584,7 +16584,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070007",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16642,7 +16642,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070009",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16700,7 +16700,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070011",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16758,7 +16758,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070012",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16816,7 +16816,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070013",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16874,7 +16874,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070014",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16932,7 +16932,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070015",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -16990,7 +16990,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070016",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17048,7 +17048,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070017",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17106,7 +17106,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070019",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17164,7 +17164,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070020",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17222,7 +17222,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070021",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17280,7 +17280,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070023",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17338,7 +17338,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070024",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17396,7 +17396,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070026",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17454,7 +17454,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070027",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17512,7 +17512,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070029",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17570,7 +17570,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M070030",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17628,7 +17628,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17686,7 +17686,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080002",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17744,7 +17744,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080003",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17802,7 +17802,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080004",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17860,7 +17860,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080005",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17918,7 +17918,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080006",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -17976,7 +17976,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080008",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18034,7 +18034,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080009",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18092,7 +18092,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080010",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18150,7 +18150,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080011",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18208,7 +18208,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080012",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18266,7 +18266,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080013",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18324,7 +18324,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080014",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18382,7 +18382,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080015",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18440,7 +18440,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080016",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18498,7 +18498,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080019",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18556,7 +18556,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080021",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18614,7 +18614,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080022",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18672,7 +18672,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080023",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18730,7 +18730,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080025",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18788,7 +18788,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080027",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18846,7 +18846,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080029",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18904,7 +18904,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080030",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -18962,7 +18962,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080031",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19020,7 +19020,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080032",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19078,7 +19078,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080033",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19136,7 +19136,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080034",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19194,7 +19194,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080035",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19252,7 +19252,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080036",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19310,7 +19310,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080037",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19368,7 +19368,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080039",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19426,7 +19426,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080040",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19484,7 +19484,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080041",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19542,7 +19542,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080042",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19600,7 +19600,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080043",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19658,7 +19658,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080044",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19716,7 +19716,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080046",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19774,7 +19774,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080048",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19832,7 +19832,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080049",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19890,7 +19890,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080050",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -19948,7 +19948,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080051",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20006,7 +20006,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080053",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20064,7 +20064,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080054",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20122,7 +20122,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080055",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20180,7 +20180,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080056",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20238,7 +20238,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080057",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20296,7 +20296,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080058",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20354,7 +20354,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080059",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20412,7 +20412,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080060",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20470,7 +20470,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080061",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20528,7 +20528,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080062",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20586,7 +20586,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080064",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20644,7 +20644,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080066",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20702,7 +20702,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080068",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20760,7 +20760,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080069",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20818,7 +20818,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080070",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20876,7 +20876,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080071",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20934,7 +20934,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080072",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -20992,7 +20992,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080073",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21050,7 +21050,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080075",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21108,7 +21108,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080076",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21166,7 +21166,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080078",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21224,7 +21224,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080080",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21282,7 +21282,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080082",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21340,7 +21340,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080085",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21398,7 +21398,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080086",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21456,7 +21456,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080089",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21514,7 +21514,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080093",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21572,7 +21572,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080094",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21630,7 +21630,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080097",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21688,7 +21688,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080098",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21746,7 +21746,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080099",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21804,7 +21804,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080100",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21862,7 +21862,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080101",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21920,7 +21920,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M080102",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -21978,7 +21978,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M090001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -22036,7 +22036,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M110001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -22094,7 +22094,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M110003",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -22152,7 +22152,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=M110004",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -22210,7 +22210,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=Q020001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -22268,7 +22268,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=Q020002",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -22326,7 +22326,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=Q060001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -22384,7 +22384,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=Q070001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -22442,7 +22442,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=Q140001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -22500,7 +22500,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=R010001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -22558,7 +22558,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=R020001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -22616,7 +22616,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=X010001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -22674,7 +22674,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=X020001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  },
  {
@@ -22732,7 +22732,7 @@
   "source_dataset_url": "https://data.cityofnewyork.us/City-Government/Privately-Owned-Public-Spaces-POPS-/rvih-nhyn",
   "source_record_url": "https://data.cityofnewyork.us/resource/rvih-nhyn.json?pops_number=X030001",
   "source_rows_updated_at": "2025-10-14",
-  "source_retrieved_at": "2026-09-21T01:39:15+00:00",
+  "source_retrieved_at": "2026-09-20T19:28:47+00:00",
   "source_sha256": "e2a280e21f4fe509dc14d65f2ab6e6b93bab0d41278ad258e7ea01758a870f3f"
  }
 ]

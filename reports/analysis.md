@@ -24,13 +24,13 @@ public-space violations).
 
 | Measure | Value |
 |---|---|
-| Bulletins processed | 101 (2017-12 to 2026-07; 3 months absent from DOB's index) |
-| Individual enforcement highlights parsed | 2,631 |
+| Bulletins processed | 102 (2017-12 to 2026-08; 3 months absent from DOB's index) |
+| Individual enforcement highlights parsed | 2,653 |
 | **Q1** POPS with ≥1 tier A action | **41** of 392 (10.5%) |
 | POPS with tier A or B | 43 · with any tier (A, B or C): 67 |
 | **Q2** POPS-related actions | tier A **45** · tier B 5 · tier C 30 |
 | **Q3** Identifiable penalties | tier A **$300,550** (median $5,000, max $15,000) · tier B $27,500 · tier C $490,875 |
-| For scale: all penalties parsed from all bulletins | $54,944,095 |
+| For scale: all penalties parsed from all bulletins | $55,255,095 |
 
 Tier C penalties are larger than tier A but mostly reflect construction-safety or building-level violations at buildings that
 happen to contain a POPS. They should not be described as penalties for POPS violations without reading each paragraph.
@@ -92,11 +92,11 @@ entrances, a plaza "80% taken over") and **signage**. Bicycle parking and hours 
 | 2023 | 12 | 390 | 8 | 3 | 4 | 2.05 |
 | 2024 | 10 | 317 | 5 | 0 | 3 | 1.58 |
 | 2025 | 11 | 278 | 0 | 0 | 1 | 0 |
-| 2026 | 7 | 149 | 0 | 0 | 2 | 0 |
+| 2026 | 8 | 171 | 0 | 0 | 2 | 0 |
 
 Bulletins per year vary (2017: one; 2024: 10 and 2025: 11 because June/July 2024 and December 2025 are not on DOB's index; 2026
 runs through July). The important pattern is at the end of the series: **the last bulletin containing any POPS wording is
-2024-08, and none of the 22 bulletins since mentions POPS.** The only
+2024-08, and none of the 23 bulletins since mentions POPS.** The only
 later POPS-building entries (tier C) are ordinary building or construction violations. The data cannot say whether DOB stopped
 *enforcing* POPS rules or stopped *highlighting* them; that is the single most important thing to ask DOB.
 
@@ -152,7 +152,7 @@ The audit (SR16-102A, 18 April 2017) visited 333 locations: 182 "No" (not fully 
 
 ## Q12. Datasets that would materially improve measurement of actual compliance
 
-Verified on NYC Open Data on 2026-09-28:
+Verified on NYC Open Data on 2026-10-05:
 
 1. **DOB Complaints Received** (`eabe-havv`; BIN, category code, inspection date, disposition). The Comptroller says DOB files
    POPS complaints under a dedicated category, so the complaint-to-inspection-to-disposition history for every POPS building is
